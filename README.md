@@ -48,3 +48,5 @@ money-manager/
 3. Start the development server:npm start
 
 > 💡 _Feel free to use and modify this project. Contributions are welcome!_
+## Go live
+live demo : https://track-expences-by-rakesh.vercel.app/
